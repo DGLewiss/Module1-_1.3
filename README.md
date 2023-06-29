@@ -4,7 +4,7 @@
 
 ## Table of Contents 
 * [Text one](#Text-one)
-* [Heading two](###text-2)
+* [Heading two](###text-two)
 * [Heading three](####text-3)
   
 
@@ -12,7 +12,7 @@
 testing my Github skills
 i am david, i was born in the uk and have 4 siblings. My professional background is in supplychain management 
 
-### text 2 
+### text two
 At some point in my proffesional life i would like to work abroad. 
  
 
