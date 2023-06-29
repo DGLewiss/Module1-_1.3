@@ -3,12 +3,12 @@
 ![Alternate](images/trial_image.jpeg)
 
 ## Table of Contents 
-* [Heading one](##text-1)
+* [Heading one](##Text-1)
 * [Heading two](###text-2)
-*[Heading three](####text-3)
+* [Heading three](####text-3)
   
 
-## text 1
+## Text 1
 testing my Github skills
 i am david, i was born in the uk and have 4 siblings. My professional background is in supplychain management 
 
