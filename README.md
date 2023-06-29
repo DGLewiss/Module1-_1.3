@@ -5,7 +5,7 @@
 ## Table of Contents 
 * [Heading one](##text-1)
 * [Heading two](###text-2)
-[Heading three](####text-3)
+*[Heading three](####text-3)
   
 
 ## text 1
