@@ -3,8 +3,8 @@
 ![Alternate](images/trial_image.jpeg)
 
 ## Table of Contents 
-* [Text one](#Text-one)
-* [Text two](#Text-two)
+* [Heading one](#Text-one)
+* [Heading two](#Text-two)
 * [Heading three](#text-3)
   
 
