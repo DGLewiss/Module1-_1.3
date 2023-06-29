@@ -4,7 +4,8 @@
 
 ## Table of Contents 
 * [Heading one](##text-1)
-* 
+* [Heading two](###text-2)
+* [Heading 3](####text-3)
 
 ## text 1
 testing my Github skills
