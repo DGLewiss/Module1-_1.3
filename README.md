@@ -1,8 +1,8 @@
 # Module1-_1.3
-testing my Github skills
+
 ![Alternate](images/trial_image.jpeg)
 
- 
+testing my Github skills
 i am david, i was born in the uk and have 4 siblings. My professional background is in supplychain management 
 
 At some point in my proffesional life i would like to work abroad. 
